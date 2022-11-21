@@ -1,0 +1,12 @@
+{
+  "name": "javascript-algorithm",
+  "version": "1.0.0",
+  "description": "algorithm",
+  "main": "palindrome.js",
+  "scripts": {
+   "start" : "node palindrome"
+  },
+  "keywords": [],
+  "author": "ayhandasyuvarlar",
+  "license": "ISC"
+}
